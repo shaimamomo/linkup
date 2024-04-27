@@ -1,2 +1,2 @@
 # linkup
-linkup with home page and about page
+https://shaimamomo.github.io/linkup/
